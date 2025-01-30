@@ -1,5 +1,5 @@
 OVERVIEW
-*NotGPT is a simulated search engine that processes web pages stored in .txt format, indexing their contents, ranking them by relevance, and returning results efficiently. This project was built using core data structures and algorithms, including B-Trees, HashMaps, BFS, and external sorting techniques to optimize ranking performance.
+NotGPT is a simulated search engine that processes web pages stored in .txt format, indexing their contents, ranking them by relevance, and returning results efficiently. This project was built using core data structures and algorithms, including B-Trees, HashMaps, BFS, and external sorting techniques to optimize ranking performance.
 
 
 
